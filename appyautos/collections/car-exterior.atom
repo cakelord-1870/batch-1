@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://appyautos.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://appyautos.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://appyautos.top/collections/car-exterior.atom"/>
+  <title>ApplianceAutomobiles</title>
+  <updated>2021-09-06T16:35:10+05:00</updated>
+  <author>
+    <name>ApplianceAutomobiles</name>
+  </author>
+  <entry>
+    <id>https://appyautos.top/products/7074164080790</id>
+    <published>2021-09-06T16:35:10+05:00</published>
+    <updated>2021-09-06T16:35:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://appyautos.top/products/auto-front-bumper-plate"/>
+    <title>Auto Front Bumper Plate</title>
+    <s:type></s:type>
+    <s:vendor>ApplianceAutomobiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/6343/5414/products/product-image-1653854462.jpg?v=1630928114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ApplianceAutomobiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Registration Plate Holder<br><strong>Item Weight:</strong> 0.48kg<br><strong>Item Width:</strong> 4inch<br><strong>Model Year:</strong> 2020<br><strong>Material:</strong> Aluminum Alloy<br><strong>Pattern:</strong> Null<br><strong>Item Height:</strong> 23.5inch<br><strong>Item Length:</strong> 14.5inch<br><strong>Fitment:</strong> Universal fits most Car, Jeep, Truck, Pickup, SUV etc.<br><strong>Package include:</strong> 1 x License Plate Mounting Bracket (lights not included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>Belgium / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-belgium-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>Italy / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-italy-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>France / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-france-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>Australia / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-australia-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>SPAIN / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-spain-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>United States / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-united-states-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>Poland / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-poland-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074164080790</id>
+      <title>China / QM191109-BK1</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42557589-china-qm191109-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://appyautos.top/products/7074162507926</id>
+    <published>2021-09-06T16:34:24+05:00</published>
+    <updated>2021-09-06T16:34:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://appyautos.top/products/5pcs-carbon-fiber-car"/>
+    <title>5pcs Carbon Fiber Car</title>
+    <s:type></s:type>
+    <s:vendor>ApplianceAutomobiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/6343/5414/products/product-image-1783945565.jpg?v=1630990163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ApplianceAutomobiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material Type:</strong> Stainless Steel.<br><strong>Item Type:</strong> Interior Mouldings<br><strong>Item Weight:</strong> 0.2kg<br><strong>Year:</strong> 2020<br><strong>Package Icluded::</strong> 5pcs of Inner Gear panel Water Cup Holder Cover trim</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>Italy / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-italy-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>Belgium / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-belgium-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>France / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-france-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>SPAIN / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-spain-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>Australia / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-australia-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>Poland / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-poland-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>United States / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-united-states-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074162507926</id>
+      <title>China / QM206848-BK1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45899615-china-qm206848-bk1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://appyautos.top/products/7074161655958</id>
+    <published>2021-09-06T16:33:51+05:00</published>
+    <updated>2021-09-06T16:33:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://appyautos.top/products/car-emergency-trailer-belt"/>
+    <title>Car Emergency Trailer Belt</title>
+    <s:type></s:type>
+    <s:vendor>ApplianceAutomobiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/6343/5414/products/product-image-1695954678.jpg?v=1630990165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ApplianceAutomobiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Length:</strong> 15m<br><strong>Material Type:</strong> Ultra-high molecular polyethylene<br><strong>Item Type:</strong> Towing Ropes<br><strong>Item Weight:</strong> 0.26kg<br><strong>Thickness: 6mm.:</strong> Length: 15m. Thickness: 6mm.<br><strong>Intensity::</strong> 5000-5700lbs, 2.5T.<br><strong>List::</strong> 1* Synthetic Winch Rope</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>United States / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-united-states-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Poland / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-poland-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Australia / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-australia-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>SPAIN / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-spain-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>China / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-china-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Poland / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-poland-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>China / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-china-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>SPAIN / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-spain-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>United States / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-united-states-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>France / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-france-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Belgium / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-belgium-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Italy / QM193495-01</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-italy-qm193495-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Belgium / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-belgium-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Australia / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-australia-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>Italy / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-italy-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074161655958</id>
+      <title>France / QM193495-02</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>43751964-france-qm193495-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://appyautos.top/products/7074160378006</id>
+    <published>2021-09-06T16:33:06+05:00</published>
+    <updated>2021-09-06T16:33:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://appyautos.top/products/carbon-fiber-car-exterior"/>
+    <title>Carbon Fiber Car exterior</title>
+    <s:type></s:type>
+    <s:vendor>ApplianceAutomobiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/6343/5414/products/product-image-1781962006.jpg?v=1630927995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ApplianceAutomobiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sticker Placement:</strong> Head<br><strong>Type:</strong> 3D Carbon Fiber Vinyl<br><strong>Item Length:</strong> 16.1inch<br><strong>Category:</strong> Stickers<br><strong>Design:</strong> Color Change<br><strong>Material Type:</strong> Carbon Fiber<br><strong>Item Type:</strong> Stickers<br><strong>Item Width:</strong> 2.6inch<br><strong>Packaging:</strong> Comes Packaged</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / France</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / Australia</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / SPAIN</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / Belgium</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / Italy</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / Poland</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://appyautos.top/products/7074160378006</id>
+      <title>QM206900-BK1 / China</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>45845050-qm206900-bk1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

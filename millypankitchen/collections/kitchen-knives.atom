@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://millenniumkitchen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://millenniumkitchen.myshopify.com/collections/kitchen-knives.atom"/>
+  <title>MillenniumKitchen</title>
+  <updated>2021-07-16T05:42:35-04:00</updated>
+  <author>
+    <name>MillenniumKitchen</name>
+  </author>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+    <published>2021-07-16T05:42:35-04:00</published>
+    <updated>2021-07-16T05:42:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/professional-kitchen-knife"/>
+    <title>Professional Kitchen Knife</title>
+    <s:type>Kitchen Knife</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1794186275.jpg?v=1626430144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Kitchen Knife<br>
+        <strong>Price: </strong>
+            90.00 - 506.00
+            <a href="https://millenniumkitchen.myshopify.com/products/professional-kitchen-knife">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Damascus Steel<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Type:</strong> Knives<br><strong>Knife Type:</strong> Chef Knives<br><strong>Knife Type:</strong> Chef, santoku, boning paring knife Utility knife<br><strong>Use:</strong> Profession Cleaver Paring Petty Santoku Slicing Knives Steak knife<br><strong>handle:</strong> G10 handle + beautiful plum nail<br><strong>Inventory:</strong> sufficient inventory, professional shipment, timely delivery<br><strong>Packaging includes:</strong> knife +Knife cover+gift box<br><strong>Size:</strong> 8/7/6/5/3.5 inch<br><strong>Hardness:</strong> 60 to 61 HRC<br><strong>Sharpness:</strong> razor-sharp<br><strong>Applicable place:</strong> Home kitchen, hotel, restaurant, gifts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Knife</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>2PCS Set / United States</title>
+      <s:price currency="USD">222.00</s:price>
+      <s:sku>32714680-2pcs-set-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>Boning Knife / United States</title>
+      <s:price currency="USD">101.92</s:price>
+      <s:sku>32714680-boning-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>Utility knives / United States</title>
+      <s:price currency="USD">94.00</s:price>
+      <s:sku>32714680-utility-knives-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>Chef knives / United States</title>
+      <s:price currency="USD">168.58</s:price>
+      <s:sku>32714680-chef-knives-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>Santoku Knife / United States</title>
+      <s:price currency="USD">164.00</s:price>
+      <s:sku>32714680-santoku-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>3PCS Set-1 / United States</title>
+      <s:price currency="USD">304.00</s:price>
+      <s:sku>32714680-3pcs-set-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>3PCS Set-2 / United States</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku>32714680-3pcs-set-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>Paring Knife / United States</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>32714680-paring-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918615957659</id>
+      <title>5PCS Set / United States</title>
+      <s:price currency="USD">506.00</s:price>
+      <s:sku>32714680-5pcs-set-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+    <published>2021-07-16T05:39:32-04:00</published>
+    <updated>2021-07-16T05:39:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/kitchen-knives-set"/>
+    <title>kitchen knives Set</title>
+    <s:type>knives Set</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1753315731.jpg?v=1626434918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>knives Set<br>
+        <strong>Price: </strong>
+            34.40 - 258.00
+            <a href="https://millenniumkitchen.myshopify.com/products/kitchen-knives-set">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel<br><strong>Metal Type:</strong> Carbon Steel<br><strong>Packaging:</strong> Over Eight-piece Set<br><strong>Type:</strong> Knife Sets<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Name:</strong> Kitchen Knife Set<br><strong>Size:</strong> 8/7/6/5/3.5 inch<br><strong>Blade Material:</strong> Stainless Steel<br><strong>Handle Material:</strong> Resin Handle<br><strong>Hardness:</strong> 56 to 57 HRC<br><strong>Sharpness:</strong> razor-sharp<br><strong>Use:</strong> cutting food<br><strong>Applicable place:</strong> Home kitchen, hotel, restaurant, gifts<br><strong>packing:</strong> Tightly packed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>knives Set</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>8 in chef knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-8-in-chef-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>8 in Slicing knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-8-in-slicing-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>4PCS B / United States</title>
+      <s:price currency="USD">138.00</s:price>
+      <s:sku>37662893-4pcs-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>6PCS A / United States</title>
+      <s:price currency="USD">258.00</s:price>
+      <s:sku>37662893-6pcs-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>2PCS C / United States</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>37662893-2pcs-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>3PCS A / United States</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>37662893-3pcs-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>3.5 in Paring knife / United States</title>
+      <s:price currency="USD">34.40</s:price>
+      <s:sku>37662893-3-5-in-paring-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>2PCS B / United States</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>37662893-2pcs-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>4PCS A / United States</title>
+      <s:price currency="USD">126.00</s:price>
+      <s:sku>37662893-4pcs-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>3PCS B / United States</title>
+      <s:price currency="USD">104.00</s:price>
+      <s:sku>37662893-3pcs-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>7 in Santoku knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-7-in-santoku-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>7 in Nakiri knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-7-in-nakiri-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>8 in Kiritsuke knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-8-in-kiritsuke-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>8 in Bread knife / United States</title>
+      <s:price currency="USD">51.60</s:price>
+      <s:sku>37662893-8-in-bread-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>5 in Santoku knife / United States</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>37662893-5-in-santoku-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>2PCS A / United States</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>37662893-2pcs-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>6 in Boning knife / United States</title>
+      <s:price currency="USD">45.60</s:price>
+      <s:sku>37662893-6-in-boning-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918606160027</id>
+      <title>5 in Utility knife / United States</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>37662893-5-in-utility-knife-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+    <published>2021-07-16T05:37:23-04:00</published>
+    <updated>2021-07-16T05:37:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/kitchen-chef-knife-4-8pcs-set"/>
+    <title>Kitchen Chef Knife 4-8PCS Set</title>
+    <s:type>Knife</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1753250312.jpg?v=1626428246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Knife<br>
+        <strong>Price: </strong>
+            141.34 - 251.14
+            <a href="https://millenniumkitchen.myshopify.com/products/kitchen-chef-knife-4-8pcs-set">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel<br><strong>Metal Type:</strong> Stainless Steel<br><strong>Packaging:</strong> Over Eight-piece Set<br><strong>Type:</strong> Knife Sets<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Blade pattern:</strong> Surface laser Damascus pattern<br><strong>Handle:</strong> Redwood handle<br><strong>Set knife:</strong> 5 kinds of set knives can choose<br><strong>Inventory:</strong> sufficient inventory, professional shipment, timely deliver<br><strong>Name:</strong> kitchen knife set with holder<br><strong>Hardness:</strong> 56 to 57 HRC<br><strong>Sharpness:</strong> razor-sharp<br><strong>Use:</strong> cutting food<br><strong>Applicable place:</strong> Home kitchen, hotel, restaurant, gifts<br><strong>packing:</strong> Tightly packed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Knife</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+      <title>8PCS Set-A / United States</title>
+      <s:price currency="USD">247.20</s:price>
+      <s:sku>27742653-8pcs-set-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+      <title>6PCS Set-A / United States</title>
+      <s:price currency="USD">211.92</s:price>
+      <s:sku>27742653-6pcs-set-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+      <title>8PCS Set-B / United States</title>
+      <s:price currency="USD">251.14</s:price>
+      <s:sku>27742653-8pcs-set-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+      <title>6PCS Set-B / United States</title>
+      <s:price currency="USD">196.24</s:price>
+      <s:sku>27742653-6pcs-set-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918600360091</id>
+      <title>4PCS Set / United States</title>
+      <s:price currency="USD">141.34</s:price>
+      <s:sku>27742653-4pcs-set-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918590857371</id>
+    <published>2021-07-16T05:33:58-04:00</published>
+    <updated>2021-07-16T05:33:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/stainless-steel-handmade-chef-knife"/>
+    <title>Stainless Steel Handmade Chef Knife</title>
+    <s:type>Chef Knife</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1647706813.jpg?v=1626431149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Chef Knife<br>
+        <strong>Price: </strong>
+            96.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel<br><strong>Feature:</strong> Eco-Friendly<br><strong>Type:</strong> Knives<br><strong>Knife Type:</strong> Cleaver<br><strong>Type:</strong> handmade forged knife<br><strong>Uses:</strong> Kitchen Chef frozen Santoku Cleaver Cutter Slicing Filleting St<br><strong>Handle material:</strong> Ebony handle<br><strong>hardness:</strong> 58+-2HRC<br><strong>Size:</strong> 8 inch<br><strong>Sharpness:</strong> razor-sharp<br><strong>Applicable place:</strong> Home kitchen, hotel, restaurant, gifts<br><strong>packing:</strong> Tightly packed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chef Knife</s:tag>
+    <s:tag>Hand Made</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918590857371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.26</s:price>
+      <s:sku>32789305-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

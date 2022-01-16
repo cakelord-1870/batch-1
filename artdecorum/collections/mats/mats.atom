@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://artdecorum.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://artdecorum.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://artdecorum.top/collections/mats.atom"/>
+  <title>Artemis Home Decore</title>
+  <updated>2021-06-07T13:02:06+05:00</updated>
+  <author>
+    <name>Artemis Home Decore</name>
+  </author>
+  <entry>
+    <id>https://artdecorum.top/products/6748135882927</id>
+    <published>2021-06-07T13:02:06+05:00</published>
+    <updated>2021-06-07T13:02:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/carpet-mat-for-living-room"/>
+    <title>Carpet mat For Living Room</title>
+    <s:type>Mats</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1629249780.jpg?v=1623058457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mats<br>
+        <strong>Price: </strong>
+            18.99 - 39.99
+            <a href="https://artdecorum.top/products/carpet-mat-for-living-room">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Hand Wash<br><strong>Wash Style:</strong> Mechanical Wash<br><strong>Material:</strong> 100% Polyester<br><strong>Technics:</strong> Woven<br><strong>Use:</strong> Prayer<br><strong>Use:</strong> HOTEL<br><strong>Use:</strong> Home<br><strong>Use:</strong> Camping<br><strong>Use:</strong> Beach<br><strong>Use:</strong> Picnic<br><strong>Use:</strong> Travel<br><strong>Use:</strong> DOOR<br><strong>Use:</strong> KİTCHEN<br><strong>Use:</strong> Outdoor<br><strong>Use:</strong> FLOOR<br><strong>Use:</strong> Bathroom<br><strong>is_customized:</strong> Yes<br><strong>Age Group:</strong> Adults<br><strong>Design:</strong> Other<br><strong>Feature:</strong> Anti-Slip<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mats</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 45cm / United States / Pink</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41886434-diameter-of-45cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 45cm / United States / Gray</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41886434-diameter-of-45cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 45cm / United States / Blue</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41886434-diameter-of-45cm-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 60cm / United States / BLACK</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41886434-diameter-of-60cm-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 60cm / United States / Pink</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41886434-diameter-of-60cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 60cm / United States / White</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41886434-diameter-of-60cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 60cm / United States / Gray</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41886434-diameter-of-60cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 60cm / United States / Blue</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41886434-diameter-of-60cm-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 90cm / United States / BLACK</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41886434-diameter-of-90cm-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 90cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41886434-diameter-of-90cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 90cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41886434-diameter-of-90cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 90cm / United States / Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41886434-diameter-of-90cm-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 120cm / United States / BLACK</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>41886434-diameter-of-120cm-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 120cm / United States / Pink</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>41886434-diameter-of-120cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 120cm / United States / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>41886434-diameter-of-120cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 120cm / United States / Gray</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>41886434-diameter-of-120cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748135882927</id>
+      <title>Diameter of 120cm / United States / Blue</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>41886434-diameter-of-120cm-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710088958127</id>
+    <published>2021-05-18T14:16:54+05:00</published>
+    <updated>2021-05-18T14:16:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/sheepskin-carpet"/>
+    <title>Sheepskin Carpet</title>
+    <s:type>Mat</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1661974553.jpg?v=1621329431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mat<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Hand Wash<br><strong>Wash Style:</strong> Mechanical Wash<br><strong>Material:</strong> 100% Polyester<br><strong>Technics:</strong> Woven<br><strong>Use:</strong> Camping<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mats</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710087516335</id>
+    <published>2021-05-18T14:15:24+05:00</published>
+    <updated>2021-05-18T14:15:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/winter-super-soft-fluffy-mat"/>
+    <title>Winter Super Soft Fluffy Mat</title>
+    <s:type>Mat</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1594751881.jpg?v=1621329339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mat<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Modern<br><strong>Technics:</strong> Non-woven Textile<br><strong>Shape:</strong> Rectangle<br><strong>Use:</strong> Prayer<br><strong>Use:</strong> HOTEL<br><strong>Use:</strong> home<br><strong>Use:</strong> Toilet<br><strong>Use:</strong> Bedroom<br><strong>Use:</strong> Bathroom<br><strong>Use:</strong> Commercial<br><strong>Use:</strong> Decorative<br><strong>Use:</strong> Outdoor<br><strong>Design:</strong> Persian<br><strong>is_customized:</strong> No<br><strong>Wash Style:</strong> Hand Wash<br><strong>Model Number:</strong> 70cm*140cm<br><strong>Decoration Style:</strong> Warm and comfortable<br><strong>Pattern Type:</strong> Solid<br><strong>Place:</strong> Parlor<br><strong>Material:</strong> 100% Polyester<br><strong>Modes of Sale:</strong> Finished Carpet piece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

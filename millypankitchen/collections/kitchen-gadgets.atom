@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://millenniumkitchen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://millenniumkitchen.myshopify.com/collections/kitchen-gadgets.atom"/>
+  <title>MillenniumKitchen</title>
+  <updated>2021-07-16T02:59:39-04:00</updated>
+  <author>
+    <name>MillenniumKitchen</name>
+  </author>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918234964123</id>
+    <published>2021-07-16T02:59:39-04:00</published>
+    <updated>2021-07-16T02:59:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/handheld-kitchenware-tomato-slicer-clip"/>
+    <title>Handheld Kitchenware Tomato Slicer Clip</title>
+    <s:type>Tomato Slicer Clip</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1598903489.jpg?v=1626418781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Tomato Slicer Clip<br>
+        <strong>Price: </strong>
+            2.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fruit &amp; Vegetable Tools Type:</strong> Shredders &amp; Slicers<br><strong>Feature:</strong> Eco-Friendly<br><strong>Material:</strong> ABS<br><strong>Type:</strong> Fruit &amp; Vegetable Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tomato Slicer Clip</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918234964123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.36</s:price>
+      <s:sku>41247623-united-states-light-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918231851163</id>
+    <published>2021-07-16T02:57:56-04:00</published>
+    <updated>2021-07-16T02:57:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/vegetable-stainless-steel-wavy-cutter"/>
+    <title>Vegetable Stainless Steel Wavy Cutter</title>
+    <s:type>Wavy Cutter</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1726932487.jpg?v=1626418817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Wavy Cutter<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Metal Type:</strong> Stainless Steel<br><strong>Feature:</strong> Eco-Friendly<br><strong>Type:</strong> Knives<br><strong>Knife Type:</strong> Vegetable Knives<br><strong>Name:</strong> Waves Cutting Knife<br><strong>Size:</strong> 19*6cm<br><strong>Weight:</strong> 50g<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> Kitchen Tool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wavy Cutter</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918231851163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.60</s:price>
+      <s:sku>33875300-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918228836507</id>
+    <published>2021-07-16T02:55:59-04:00</published>
+    <updated>2021-07-16T02:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/stove-windproof-stainless-steel-net"/>
+    <title>Stove Windproof Stainless Steel Net</title>
+    <s:type>Windproof net</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1598802019.jpg?v=1626418562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Windproof net<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Net</s:tag>
+    <s:tag>Windproof</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918228836507</id>
+      <title>United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41244730-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918224216219</id>
+    <published>2021-07-16T02:53:39-04:00</published>
+    <updated>2021-07-16T02:53:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/reusable-refillable-coffee-capsule-cup"/>
+    <title>Reusable Refillable Coffee Capsule Cup</title>
+    <s:type>Coffee Capsule Cup</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1516864810.jpg?v=1626418423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Coffee Capsule Cup<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Filter Type:</strong> Reusable Filters<br><strong>Item Name:</strong> Coffee Capsule<br><strong>Features:</strong> Reusable, Refillable, Easy to Clean, Accessories<br><strong>Size:</strong> 5.4*5.4*3.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Capsule Cup</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918224216219</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39868344-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

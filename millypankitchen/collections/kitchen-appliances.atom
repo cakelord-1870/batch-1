@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://millenniumkitchen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://millenniumkitchen.myshopify.com/collections/kitchen-appliances.atom"/>
+  <title>MillenniumKitchen</title>
+  <updated>2021-07-16T02:16:21-04:00</updated>
+  <author>
+    <name>MillenniumKitchen</name>
+  </author>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918150553755</id>
+    <published>2021-07-16T02:16:21-04:00</published>
+    <updated>2021-07-16T02:16:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/stainless-steel-dumplings-mold"/>
+    <title>Stainless Steel Dumplings Mold</title>
+    <s:type>Dumplings Mold</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1798528996.jpg?v=1626416291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Dumplings Mold<br>
+        <strong>Price: </strong>
+            11.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Specialty Tools<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Metal<br><strong>Metal Type:</strong> Stainless Steel<br><strong>Specialty Tools Type:</strong> Dumplings mold</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dumplings Mold</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918150553755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.30</s:price>
+      <s:sku>42155006-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918143049883</id>
+    <published>2021-07-16T02:13:32-04:00</published>
+    <updated>2021-07-16T02:13:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/high-quality-vegetables-peeler"/>
+    <title>High Quality Vegetables Peeler</title>
+    <s:type>Peeler</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1802074910.jpg?v=1626416370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Peeler<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fruit &amp; Vegetable Tools Type:</strong> Peelers &amp; Zesters<br><strong>Feature:</strong> Eco-Friendly<br><strong>Material:</strong> Metal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peeler</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918143049883</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>27216471-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918136660123</id>
+    <published>2021-07-16T02:11:11-04:00</published>
+    <updated>2021-07-16T02:11:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/stainless-steel-reusable-straw"/>
+    <title>Stainless Steel Reusable Straw</title>
+    <s:type>Reusable Straw</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1487817603.jpg?v=1626415876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Reusable Straw<br>
+        <strong>Price: </strong>
+            16.60 - 17.98
+            <a href="https://millenniumkitchen.myshopify.com/products/stainless-steel-reusable-straw">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel<br><strong>Item Type:</strong> Straws</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Reusable</s:tag>
+    <s:tag>Straw</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918136660123</id>
+      <title>4Pcs-Multicolor / United States</title>
+      <s:price currency="USD">17.20</s:price>
+      <s:sku>39030913-4pcs-multicolor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918136660123</id>
+      <title>7pcs-Silver / United States</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku>39030913-7pcs-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918136660123</id>
+      <title>4Pcs-Silver / United States</title>
+      <s:price currency="USD">16.60</s:price>
+      <s:sku>39030913-4pcs-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918136660123</id>
+      <title>7pcs-Multicolor / United States</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>39030913-7pcs-multicolor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918132236443</id>
+    <published>2021-07-16T02:09:40-04:00</published>
+    <updated>2021-07-16T02:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/shovel-shaped-ice-cream-spoon"/>
+    <title>Shovel Shaped Ice-Cream Spoon</title>
+    <s:type>Ice Cream Spoon</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1801526915.jpg?v=1626416300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Ice Cream Spoon<br>
+        <strong>Price: </strong>
+            13.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Spoon Type:</strong> Iced-Cream Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Spoon</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918132236443</id>
+      <title>A / United States</title>
+      <s:price currency="USD">13.98</s:price>
+      <s:sku>38179421-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918132236443</id>
+      <title>B / United States</title>
+      <s:price currency="USD">13.98</s:price>
+      <s:sku>38179421-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918132236443</id>
+      <title>D / United States</title>
+      <s:price currency="USD">13.98</s:price>
+      <s:sku>38179421-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

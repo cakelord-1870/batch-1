@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://artdecorum.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://artdecorum.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://artdecorum.top/collections/vases.atom"/>
+  <title>Artemis Home Decore</title>
+  <updated>2021-06-07T14:18:50+05:00</updated>
+  <author>
+    <name>Artemis Home Decore</name>
+  </author>
+  <entry>
+    <id>https://artdecorum.top/products/6748265676975</id>
+    <published>2021-06-07T14:18:50+05:00</published>
+    <updated>2021-06-07T14:18:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/iron-vase-flower-racks"/>
+    <title>Iron Vase Flower Racks</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1639008348.jpg?v=1623057534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Modern<br><strong>Material:</strong> Metal<br><strong>Size:</strong> M<br><strong>Function:</strong> Wall Vase<br><strong>Unit Type:</strong> piece<br><strong>Package Weight:</strong> 0.2kg (0.44lb.)<br><strong>Package Size:</strong> 10cm x 15cm x 20cm (3.94in x 5.91in x 7.87in)<br><strong>Material::</strong> Iron<br><strong>Color::</strong> Gold /rose gold</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748265676975</id>
+      <title>rose gold / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>27366360-rose-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748265676975</id>
+      <title>gold / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>27366360-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748262957231</id>
+    <published>2021-06-07T14:17:17+05:00</published>
+    <updated>2021-06-07T14:17:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/creative-portrait-vase"/>
+    <title>Creative Portrait Vase</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1673470065.jpg?v=1623058089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Resin<br><strong>Size:</strong> M<br><strong>Function:</strong> Tabletop Vase<br><strong>For:</strong> Vases Decoration Home<br><strong>Style:</strong> Resin David Medici Venus Vase</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748262957231</id>
+      <title>beige / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43111030-beige-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748262957231</id>
+      <title>white with red cheek / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43111030-white-with-red-cheek-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748261122223</id>
+    <published>2021-06-07T14:16:08+05:00</published>
+    <updated>2021-06-07T14:16:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/plant-decoration-vases"/>
+    <title>Plant Decoration Vases</title>
+    <s:type>Vases</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1687775657.jpg?v=1623058070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Function:</strong> Tabletop Vase</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748261122223</id>
+      <title>L / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43525526-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748261122223</id>
+      <title>G / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43525526-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

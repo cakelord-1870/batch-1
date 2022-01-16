@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://switchdock.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://switchdock.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://switchdock.top/collections/all.atom"/>
+  <title>Switch Charging Dock </title>
+  <updated>2021-05-22T15:26:53+05:00</updated>
+  <author>
+    <name>Switch Charging Dock </name>
+  </author>
+  <entry>
+    <id>https://switchdock.top/products/6679544758464</id>
+    <published>2021-05-22T15:26:53+05:00</published>
+    <updated>2021-05-22T15:26:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://switchdock.top/products/switch-charging-dock"/>
+    <title>Switch Charging Dock</title>
+    <s:type>Charging Dock</s:type>
+    <s:vendor>Switch Charging Dock </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/4005/2160/products/product-image-1368082937.jpg?v=1621679533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Switch Charging Dock <br>
+        <strong>Type: </strong>Charging Dock<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size:</strong> 20*40*9cm<br><strong>type 1:</strong> Nintendo switch charging dock<br><strong>type2:</strong> Nintendo switch dock<br><strong>type3:</strong> dock Nintendo switch<br><strong>type4:</strong> switch dock<br><strong>type5:</strong> dock switch<br><strong>type6:</strong> Nintendo<br><strong>type7:</strong> Nintendo switch console<br><strong>feature1:</strong> Nintendo switch dock<br><strong>feature2:</strong> Nintendo dock<br><strong>type8:</strong> Nintendo switch dock<br><strong>type9:</strong> Nintendo switch charging dock<br><strong>type10:</strong> dock Nintendo switch<br><strong>type28:</strong> NS Charging Base<br><b>Color:</b> Black<br><strong>Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Charging Dock</s:tag>
+    <s:variant>
+      <id>https://switchdock.top/products/6679544758464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>35952000-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

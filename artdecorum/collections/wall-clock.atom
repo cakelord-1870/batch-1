@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://artdecorum.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://artdecorum.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://artdecorum.top/collections/wall-clock.atom"/>
+  <title>Artemis Home Decore</title>
+  <updated>2021-06-07T11:56:38+05:00</updated>
+  <author>
+    <name>Artemis Home Decore</name>
+  </author>
+  <entry>
+    <id>https://artdecorum.top/products/6747997339823</id>
+    <published>2021-06-07T11:56:38+05:00</published>
+    <updated>2021-06-07T11:56:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/modern-design-coffee-mug-clock"/>
+    <title>Modern Design Coffee Mug clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1773989055.jpg?v=1623051860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> circular<br><strong>Material:</strong> Other<br><strong>Form:</strong> Single Face<br><strong>Motivity Type:</strong> Mechanical<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> Other<br><strong>Pattern:</strong> Still life<br><strong>Feature:</strong> Antique Style<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Separates<br><strong>Display Type:</strong> Needle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747997339823</id>
+      <title>Silver / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45638318-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747997339823</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45638318-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747997339823</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45638318-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747997339823</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45638318-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6747994489007</id>
+    <published>2021-06-07T11:55:28+05:00</published>
+    <updated>2021-06-07T11:55:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/roman-numbers-room-clock"/>
+    <title>Roman Numbers Room Clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1678754976.jpg?v=1623048938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> circular<br><strong>Material:</strong> Acrylic<br><strong>Diameter:</strong> 0cmcm<br><strong>Form:</strong> Single Face<br><strong>Length:</strong> 0mmmm<br><strong>Weight:</strong> 80gg<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> Wall Clock<br><strong>Pattern:</strong> cartoon<br><strong>Feature:</strong> Mirror Clock<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Separates<br><strong>Display Type:</strong> Needle<br><strong>Width:</strong> 0cmcm<br><strong>Body Material:</strong> Acrylic glass (PS glass)<br><strong>Clock:</strong> Wall Clock<br><strong>3D Mirror Sticker:</strong> Mirror Sticker<br><strong>Material:</strong> Acrylic glass (PS glass)<br><strong>Thickness:</strong> 1mm<br><strong>Size:</strong> diameter 40cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747994489007</id>
+      <title>C / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43258708-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747994489007</id>
+      <title>D / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43258708-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747994489007</id>
+      <title>B / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43258708-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747994489007</id>
+      <title>A / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43258708-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6747992096943</id>
+    <published>2021-06-07T11:54:19+05:00</published>
+    <updated>2021-06-07T11:54:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/creative-home-decoration-clock"/>
+    <title>Creative Home Decoration Clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1664514341.jpg?v=1623048866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Geometric<br><strong>Material:</strong> Other<br><strong>Form:</strong> Single Face<br><strong>Motivity Type:</strong> Mechanical<br><strong>Wall Clock Type:</strong> Other<br><strong>Pattern:</strong> PORTRAIT<br><strong>Feature:</strong> Antique Style<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Separates<br><strong>Display Type:</strong> Needle<br><strong>Body Material:</strong> Other<br><strong>Type:</strong> alarm clocks small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747992096943</id>
+      <title>B / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42861922-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747992096943</id>
+      <title>C / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42861922-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747992096943</id>
+      <title>D / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42861922-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747992096943</id>
+      <title>A / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42861922-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6747990261935</id>
+    <published>2021-06-07T11:53:29+05:00</published>
+    <updated>2021-06-07T11:53:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/acrylic-mirror-stickers-wall-clock"/>
+    <title>Acrylic Mirror Stickers Wall Clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1734837043.jpg?v=1623051313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Geometric<br><strong>Material:</strong> Glass &amp; Crystal<br><strong>Diameter:</strong> 40cm<br><strong>Form:</strong> Single Face<br><strong>Length:</strong> 40mm<br><strong>Weight:</strong> 80g<br><strong>Motivity Type:</strong> Digital<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> 9 mm Sheet<br><strong>Pattern:</strong> abstract<br><strong>Feature:</strong> Antique Style<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Separates<br><strong>Display Type:</strong> Needle<br><strong>Width:</strong> 40cm<br><strong>Body Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747990261935</id>
+      <title>S / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32864746-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747990261935</id>
+      <title>R / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32864746-r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747990261935</id>
+      <title>B / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32864746-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6747990261935</id>
+      <title>G / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>32864746-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6709942321327</id>
+    <published>2021-05-18T12:03:55+05:00</published>
+    <updated>2021-05-18T12:03:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/creative-acrylic-wallclock"/>
+    <title>Creative Acrylic WallClock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1477765760.jpg?v=1621321445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> circular<br><strong>Diameter:</strong> 60cm<br><strong>Form:</strong> Single Face<br><strong>Length:</strong> 60mm<br><strong>Weight:</strong> 70g<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> 9 mm Sheet<br><strong>Pattern:</strong> Other<br><strong>Feature:</strong> Creative DIY<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Multi-piece set<br><strong>Display Type:</strong> Needle<br><strong>Width:</strong> 60cm<br><strong>Body Material:</strong> Plastic<br><strong>Power type:</strong> AA battery(not include)<br><strong>Color:</strong> Silver,Gold,Black,Red<br><strong>Product Name:</strong> 3D Wall Clock Mirror Wall Stickers<br><strong>Item:</strong> Creative DIY Wall Clocks<br><strong>Use:</strong> Living room/Bedroom/Kitchen/Office/Hall<br><strong>Style:</strong> Clock Stickers<br><strong>Feature:</strong> DIY 3D Wall Clock modern</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 1</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-1-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 1</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-1-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 1</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-1-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 1</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-1-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Plum</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-plum-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 4</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-4-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 4</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-4-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 4</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-4-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 4</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-4-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-5-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-5-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-5-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 5</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-5-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 2</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-2-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 2</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-2-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 2</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-2-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 2</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-2-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 3</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-3-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 3</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-3-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 3</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-3-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 3</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-3-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-6-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-6-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-6-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-8-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-8-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 9</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-9-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 9</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-9-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Silver 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-silver-7-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-7-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Black 8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-black-8-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-7-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Red 9</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-red-9-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709942321327</id>
+      <title>Gold 9</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>38753929-gold-9-united-states-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6709941043375</id>
+    <published>2021-05-18T12:01:21+05:00</published>
+    <updated>2021-05-18T12:01:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/quartz-needle-wall-clock"/>
+    <title>Quartz Needle Wall Clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1698925824.jpg?v=1621321294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> circular<br><strong>Material:</strong> Plastic<br><strong>Diameter:</strong> 60cm<br><strong>Form:</strong> Single Face<br><strong>Length:</strong> 60mm<br><strong>Weight:</strong> 100g<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> 9 mm Sheet<br><strong>Pattern:</strong> Other<br><strong>Feature:</strong> Creative DIY<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Multi-piece set<br><strong>Display Type:</strong> Needle<br><strong>Width:</strong> 60cm<br><strong>Body Material:</strong> Plastic<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>colorful B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-colorful-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black K</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-k-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

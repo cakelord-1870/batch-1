@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://artdecorum.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://artdecorum.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://artdecorum.top/collections/best-selling-products.atom"/>
+  <title>Artemis Home Decore</title>
+  <updated>2021-06-07T12:20:26+05:00</updated>
+  <author>
+    <name>Artemis Home Decore</name>
+  </author>
+  <entry>
+    <id>https://artdecorum.top/products/6748050129071</id>
+    <published>2021-06-07T12:20:26+05:00</published>
+    <updated>2021-06-07T12:20:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/net-stainless-steel-gas-cooker"/>
+    <title>Net Stainless Steel Gas Cooker</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1598802019.jpg?v=1623050439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748050129071</id>
+      <title>United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41244730-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748047737007</id>
+    <published>2021-06-07T12:19:08+05:00</published>
+    <updated>2021-06-07T12:19:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/vegetable-fruit-cutter"/>
+    <title>Vegetable Fruit Cutter</title>
+    <s:type>Cutter</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1663249833.jpg?v=1623050436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Cutter<br>
+        <strong>Price: </strong>
+            11.99 - 21.99
+            <a href="https://artdecorum.top/products/vegetable-fruit-cutter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Metal Type:</strong> Stainless Steel<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Type:</strong> Knives<br><strong>Knife Type:</strong> Vegetable Knives<br><strong>style 1:</strong> Kitchen Cooking Tool<br><strong>style 2:</strong> Potato Cutting Slicer<br><strong>style 3:</strong> Waves Cutting Slicer<br><strong>style 4:</strong> Vegetable Wavy Cutter<br><strong>style 5:</strong> Fruit Wavy Cutter<br><strong>style 6:</strong> Carrot Waves Cutting Slicer<br><strong>Name:</strong> Waves Cutting Knife<br><strong>Size:</strong> 19*6cm<br><strong>Weight:</strong> 50g<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> Kitchen Tool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>1 pc / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42825110-1-pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>2 pcs / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42825110-2-pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>4 pcs / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>42825110-4-pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710181003439</id>
+    <published>2021-05-18T15:24:19+05:00</published>
+    <updated>2021-05-18T15:24:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/stainless-steel-iron-shovel-spoon"/>
+    <title>Stainless Steel Iron Shovel Spoon</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1551933286.jpg?v=1621334007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Spoon Type:</strong> Iced Cream Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>A</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>B</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>D</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710101573807</id>
+    <published>2021-05-18T14:27:21+05:00</published>
+    <updated>2021-05-18T14:27:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/artificial-home-garden-decoration"/>
+    <title>Artificial Home Garden Decoration</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1721205802.jpg?v=1621334530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Placement:</strong> Desktop<br><strong>Material:</strong> Plastic<br><strong>Plant Style:</strong> Bonsai<br><strong>is_customized:</strong> No<br><strong>wall sticker bedroom decoration:</strong> home decoration accessories<br><strong>wall sticker:</strong> home decoration accessories for bedroom<br><strong>room decoration:</strong> Plant Flower Pot wall Rack<br><strong>home decoration:</strong> decorations for bedroom<br><strong>candle holders:</strong> home accessories<br><strong>canvas painting:</strong> living room decoration<br><strong>wall stickers home decor living room:</strong> wall stickers home decor living room<br><strong>home decoration accessories for living r:</strong> home decoration accessories for living room<br><strong>home decoration accessories:</strong> room decoration accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Garden</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeB 3 (25X18cm)</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typeb-3-25x18cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeB 4 (25X18cm)</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typeb-4-25x18cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeB 1 (25X18cm)</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typeb-1-25x18cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeB 2 (25X18cm)</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typeb-2-25x18cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  8</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>Type 9 (14x14x7.5cm)</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-type-9-14x14x7-5cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  6</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  7</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  4</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  5</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  2</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  3</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710101573807</id>
+      <title>TypeA  1</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41883896-typea-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710088958127</id>
+    <published>2021-05-18T14:16:54+05:00</published>
+    <updated>2021-05-18T14:16:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/sheepskin-carpet"/>
+    <title>Sheepskin Carpet</title>
+    <s:type>Mat</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1661974553.jpg?v=1621329431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mat<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Hand Wash<br><strong>Wash Style:</strong> Mechanical Wash<br><strong>Material:</strong> 100% Polyester<br><strong>Technics:</strong> Woven<br><strong>Use:</strong> Camping<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mats</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>120x60cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-120x60cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>70x35cm / United States / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-70x35cm-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Dark Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Hot Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-hot-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Purple</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710088958127</id>
+      <title>180x90cm / United States / Wine Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40580921-180x90cm-united-states-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710087516335</id>
+    <published>2021-05-18T14:15:24+05:00</published>
+    <updated>2021-05-18T14:15:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/winter-super-soft-fluffy-mat"/>
+    <title>Winter Super Soft Fluffy Mat</title>
+    <s:type>Mat</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1594751881.jpg?v=1621329339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mat<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Modern<br><strong>Technics:</strong> Non-woven Textile<br><strong>Shape:</strong> Rectangle<br><strong>Use:</strong> Prayer<br><strong>Use:</strong> HOTEL<br><strong>Use:</strong> home<br><strong>Use:</strong> Toilet<br><strong>Use:</strong> Bedroom<br><strong>Use:</strong> Bathroom<br><strong>Use:</strong> Commercial<br><strong>Use:</strong> Decorative<br><strong>Use:</strong> Outdoor<br><strong>Design:</strong> Persian<br><strong>is_customized:</strong> No<br><strong>Wash Style:</strong> Hand Wash<br><strong>Model Number:</strong> 70cm*140cm<br><strong>Decoration Style:</strong> Warm and comfortable<br><strong>Pattern Type:</strong> Solid<br><strong>Place:</strong> Parlor<br><strong>Material:</strong> 100% Polyester<br><strong>Modes of Sale:</strong> Finished Carpet piece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Beige / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-beige-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Light gray / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-light-gray-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Pink / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-pink-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Dark Gray / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-dark-gray-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 40cmx60cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-40cmx60cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 60cmx90cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-60cmx90cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 60cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-60cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Brown / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-brown-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 80cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-80cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 100cmx180cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-100cmx180cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 100cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-100cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710087516335</id>
+      <title>Camel / 120cmx160cm / United States</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>30333656-camel-120cmx160cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6709971157167</id>
+    <published>2021-05-18T12:23:41+05:00</published>
+    <updated>2021-05-18T12:23:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/geometric-circle-mirror"/>
+    <title>Geometric Circle Mirror</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1755100196.jpg?v=1621334830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Round<br><strong>Material:</strong> Other<br><strong>espejos decorativos para paredes:</strong> miroir mural<br><strong>espejos decorativos:</strong> wall mirror<br><strong>home decor:</strong> round sticker<br><strong>removable stickers:</strong> home stickers<br><strong>home decor stickers:</strong> decorative wall stickers<br><strong>kids wall sticker:</strong> stickers on the wall<br><strong>mirror wall stickers:</strong> stickers for wall<br><strong>wall sticker children:</strong> bathroom sticker<br><strong>kitchen sticker:</strong> 3d mirror sticker<br><strong>decorative mirror stickers:</strong> stickers mirror wall<br><strong>Mirror:</strong> Wall Stickers<br><strong>Decorative Wall Mirrors:</strong> Decorative Mirrors<br><strong>Home Decoration Accessories:</strong> Mirror Wall<br><strong>Wall Stickers Decor:</strong> Mirror Panel Decor<br><strong>Wall Mirror Stickers:</strong> Home Bedroom Decoration</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall mirror</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709971157167</id>
+      <title>Black</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35662694-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709971157167</id>
+      <title>Silver</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35662694-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709971157167</id>
+      <title>Gold</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35662694-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6709969453231</id>
+    <published>2021-05-18T12:21:31+05:00</published>
+    <updated>2021-05-18T12:21:31+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/3d-wall-sticker-mirror"/>
+    <title>3D Wall Sticker Mirror</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1655534862.jpg?v=1621322495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Round<br><strong>Material:</strong> Other<br><strong>espejos decorativos para paredes:</strong> miroir mural<br><strong>espejos decorativos:</strong> wall mirror<br><strong>home decor:</strong> round sticker<br><strong>removable stickers:</strong> home stickers<br><strong>home decor stickers:</strong> decorative wall stickers<br><strong>kids wall sticker:</strong> stickers on the wall<br><strong>mirror wall stickers:</strong> stickers for wall<br><strong>wall sticker children:</strong> bathroom sticker<br><strong>kitchen sticker:</strong> 3d mirror sticker<br><strong>decorative mirror stickers:</strong> stickers mirror wall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wall mirror</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709969453231</id>
+      <title>Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42605658-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709969453231</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42605658-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709969453231</id>
+      <title>Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42605658-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6709941043375</id>
+    <published>2021-05-18T12:01:21+05:00</published>
+    <updated>2021-05-18T12:01:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/quartz-needle-wall-clock"/>
+    <title>Quartz Needle Wall Clock</title>
+    <s:type>Clock</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1698925824.jpg?v=1621321294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Clock<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> circular<br><strong>Material:</strong> Plastic<br><strong>Diameter:</strong> 60cm<br><strong>Form:</strong> Single Face<br><strong>Length:</strong> 60mm<br><strong>Weight:</strong> 100g<br><strong>Type:</strong> Wall Clocks<br><strong>Wall Clock Type:</strong> 9 mm Sheet<br><strong>Pattern:</strong> Other<br><strong>Feature:</strong> Creative DIY<br><strong>Applicable Placement:</strong> living room<br><strong>Combination:</strong> Multi-piece set<br><strong>Display Type:</strong> Needle<br><strong>Width:</strong> 60cm<br><strong>Body Material:</strong> Plastic<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall clock</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold A</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-a-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>colorful B</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-colorful-b-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red C</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-c-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-d-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-e-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red G</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-g-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold F</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-f-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Sliver J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-sliver-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red I</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-i-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Gold J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-gold-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Red J</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-red-j-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6709941043375</id>
+      <title>Black K</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43832964-black-k-china-40-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

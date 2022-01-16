@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://artdecorum.top/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://artdecorum.top/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://artdecorum.top/collections/kitchen-accessories.atom"/>
+  <title>Artemis Home Decore</title>
+  <updated>2021-06-07T12:20:26+05:00</updated>
+  <author>
+    <name>Artemis Home Decore</name>
+  </author>
+  <entry>
+    <id>https://artdecorum.top/products/6748050129071</id>
+    <published>2021-06-07T12:20:26+05:00</published>
+    <updated>2021-06-07T12:20:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/net-stainless-steel-gas-cooker"/>
+    <title>Net Stainless Steel Gas Cooker</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1598802019.jpg?v=1623050439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Stainless Steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748050129071</id>
+      <title>United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41244730-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748047737007</id>
+    <published>2021-06-07T12:19:08+05:00</published>
+    <updated>2021-06-07T12:19:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/vegetable-fruit-cutter"/>
+    <title>Vegetable Fruit Cutter</title>
+    <s:type>Cutter</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1663249833.jpg?v=1623050436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Cutter<br>
+        <strong>Price: </strong>
+            11.99 - 21.99
+            <a href="https://artdecorum.top/products/vegetable-fruit-cutter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Metal Type:</strong> Stainless Steel<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Type:</strong> Knives<br><strong>Knife Type:</strong> Vegetable Knives<br><strong>style 1:</strong> Kitchen Cooking Tool<br><strong>style 2:</strong> Potato Cutting Slicer<br><strong>style 3:</strong> Waves Cutting Slicer<br><strong>style 4:</strong> Vegetable Wavy Cutter<br><strong>style 5:</strong> Fruit Wavy Cutter<br><strong>style 6:</strong> Carrot Waves Cutting Slicer<br><strong>Name:</strong> Waves Cutting Knife<br><strong>Size:</strong> 19*6cm<br><strong>Weight:</strong> 50g<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> Kitchen Tool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>1 pc / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42825110-1-pc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>2 pcs / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42825110-2-pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748047737007</id>
+      <title>4 pcs / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>42825110-4-pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748044198063</id>
+    <published>2021-06-07T12:17:17+05:00</published>
+    <updated>2021-06-07T12:17:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/nut-opener-cutter-gadgets"/>
+    <title>Nut Opener Cutter Gadgets</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1649005651.jpg?v=1623050243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Stainless Steel<br><strong>Type:</strong> Fruit &amp; Vegetable Tools<br><strong>Nut Opener 1:</strong> Nut Opener<br><strong>Nut Opener 2:</strong> Nut Cutter<br><strong>Nut Opener 3:</strong> Nut Gadgets<br><strong>Nut Opener 4:</strong> Chestnut Clip<br><strong>Nut Opener 5:</strong> Nutcracker<br><strong>Nut Opener 6:</strong> Kitchen Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748044198063</id>
+      <title>United States / HGZBC0074B000</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42422937-united-states-hgzbc0074b000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748044198063</id>
+      <title>United States / HGZBC0074A000</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42422937-united-states-hgzbc0074a000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748044198063</id>
+      <title>United States / HGZBC0074C000</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42422937-united-states-hgzbc0074c000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748041576623</id>
+    <published>2021-06-07T12:16:05+05:00</published>
+    <updated>2021-06-07T12:16:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/plastic-coffee-filter"/>
+    <title>Plastic Coffee Filter</title>
+    <s:type>Coffee Filter</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1516864810.jpg?v=1623050168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Coffee Filter<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Filter Type:</strong> Reusable Filters<br><strong>Item Name:</strong> Coffee Capsule<br><strong>Features:</strong> Reusable, Refillablb, Easy to Clean, Accessories<br><strong>Size:</strong> 5.4*5.4*3.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748041576623</id>
+      <title>purple / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39868344-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6748039315631</id>
+    <published>2021-06-07T12:14:58+05:00</published>
+    <updated>2021-06-07T12:14:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/tomato-slicer-kitchen-gadget"/>
+    <title>Tomato Slicer Kitchen Gadget</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1598903489.jpg?v=1623050102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> ABS<br><strong>Type:</strong> Fruit &amp; Vegetable Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6748039315631</id>
+      <title>United States / Light Yellow</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41247623-united-states-light-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://artdecorum.top/products/6710181003439</id>
+    <published>2021-05-18T15:24:19+05:00</published>
+    <updated>2021-05-18T15:24:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://artdecorum.top/products/stainless-steel-iron-shovel-spoon"/>
+    <title>Stainless Steel Iron Shovel Spoon</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Artemis Home Decore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0571/2809/1823/products/product-image-1551933286.jpg?v=1621334007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artemis Home Decore<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Spoon Type:</strong> Iced Cream Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Gadgets</s:tag>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>A</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>B</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://artdecorum.top/products/6710181003439</id>
+      <title>D</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>38179421-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

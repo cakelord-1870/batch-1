@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://millenniumkitchen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://millenniumkitchen.myshopify.com/collections/kitchen-faucet-sprayer.atom"/>
+  <title>MillenniumKitchen</title>
+  <updated>2021-07-16T03:59:54-04:00</updated>
+  <author>
+    <name>MillenniumKitchen</name>
+  </author>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+    <published>2021-07-16T03:59:54-04:00</published>
+    <updated>2021-07-16T03:59:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/black-and-rose-golden-spring-pull-down-kitchen-faucet"/>
+    <title>Black and Rose-Golden Spring Pull Down Kitchen Faucet</title>
+    <s:type>Kitchen Faucet Sprayer</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1436898479.jpg?v=1626428683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Kitchen Faucet Sprayer<br>
+        <strong>Price: </strong>
+            72.80 - 108.24
+            <a href="https://millenniumkitchen.myshopify.com/products/black-and-rose-golden-spring-pull-down-kitchen-faucet">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Surface Treatment:</strong> Brushed<br><strong>Material:</strong> Brass<br><strong>Number of Holes for Installation:</strong> Single Hole<br><strong>Cold &amp; Hot Water:</strong> Yes<br><strong>Valve Core Material:</strong> Ceramic<br><strong>Style:</strong> Single Holder Single Hole<br><strong>Number of Handles:</strong> Single Handle<br><strong>Feature:</strong> Cold and Hot<br><strong>Spray Type:</strong> Side<br><strong>Rotatable Or Not:</strong> Yes<br><strong>Type:</strong> Ceramic Plate Spool<br><strong>Surface Finishing:</strong> Nickle<br><strong>Style:</strong> Contemporary<br><strong>Installation Type:</strong> Deck Mounted<br><strong>Package includes:</strong> Faucet + hot and cold pipe+install accessory<br><strong>Type:</strong> Spring Pull Down Kitchen Faucet<br><strong>Feature:</strong> Dual Swivel Spout<br><strong>Sprayer Shower Head Feature:</strong> 2 Rotate Spout Kitchen Faucet<br><strong>Shower Sprayer Head:</strong> A Grade ABS Plastic<br><strong>Install Hole:</strong> between 3-4cm<br><strong>Sprayer Head Feature:</strong> Handheld to make the water out<br><strong>Side Spout:</strong> 360 degrees Rotate with a small knob</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Chrome GB / United States</title>
+      <s:price currency="USD">72.80</s:price>
+      <s:sku>309624-chrome-gb-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Brushed Nickel XZ / United States</title>
+      <s:price currency="USD">89.60</s:price>
+      <s:sku>309624-brushed-nickel-xz-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Chrome GH A / United States</title>
+      <s:price currency="USD">72.80</s:price>
+      <s:sku>309624-chrome-gh-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Rose gold Black A / United States</title>
+      <s:price currency="USD">108.24</s:price>
+      <s:sku>309624-rose-gold-black-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Brushed Nickel GB / United States</title>
+      <s:price currency="USD">89.60</s:price>
+      <s:sku>309624-brushed-nickel-gb-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918371115163</id>
+      <title>Black Color A / United States</title>
+      <s:price currency="USD">87.72</s:price>
+      <s:sku>309624-black-color-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918361907355</id>
+    <published>2021-07-16T03:55:38-04:00</published>
+    <updated>2021-07-16T03:55:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/matte-black-kitchen-faucet-sprayer"/>
+    <title>Matte Black Kitchen Faucet Sprayer</title>
+    <s:type>Kitchen Faucet Sprayer</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1588097352.jpg?v=1626428789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Kitchen Faucet Sprayer<br>
+        <strong>Price: </strong>
+            81.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Surface Treatment:</strong> Blackened<br><strong>Material:</strong> Brass<br><strong>Number of Holes for Installation:</strong> Single Hole<br><strong>Cold &amp; Hot Water:</strong> Yes<br><strong>Valve Core Material:</strong> Ceramic<br><strong>Style:</strong> Single Holder Single Hole<br><strong>Number of Handles:</strong> Single Handle<br><strong>Feature:</strong> Cold and Hot<br><strong>Spray Type:</strong> Side<br><strong>Rotatable Or Not:</strong> Yes<br><strong>Type:</strong> Ceramic Plate Spool<br><strong>Surface Finishing:</strong> Brass<br><strong>Style:</strong> Contemporary<br><strong>Installation Type:</strong> Deck Mounted<br><strong>Finish:</strong> Mattel Black/Brushed Nickel/Chrome<br><strong>Color:</strong> Mattel Black/Brushed Nickel/Chrome<br><strong>Feature:</strong> Stream Sprayer Dual Function Nozzle<br><strong>Type:</strong> Pull Down Kitchen Crane Faucet<br><strong>Sprayer Head Material:</strong> A Grade ABS Plastic<br><strong>Faucet Name:</strong> Spring Hot and Cold Water Kitchen Faucet<br><strong>Spout Feature:</strong> Stream Sprayer with switch Button<br><strong>Style:</strong> Deck Mounted Kitchen Faucet with Bracket</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Faucet Sprayer</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918361907355</id>
+      <title>Chrome A / United States</title>
+      <s:price currency="USD">81.94</s:price>
+      <s:sku>10545631-chrome-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918361907355</id>
+      <title>Brushed Black Pipe A / United States</title>
+      <s:price currency="USD">81.94</s:price>
+      <s:sku>10545631-brushed-black-pipe-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918361907355</id>
+      <title>Black A / United States</title>
+      <s:price currency="USD">81.94</s:price>
+      <s:sku>10545631-black-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918361907355</id>
+      <title>Black Brushed A / United States</title>
+      <s:price currency="USD">81.94</s:price>
+      <s:sku>10545631-black-brushed-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+    <published>2021-07-16T03:54:48-04:00</published>
+    <updated>2021-07-16T03:54:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/smart-touch-kitchen-faucet"/>
+    <title>Smart Touch Kitchen Faucet</title>
+    <s:type>Kitchen Faucet</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1445171664.jpg?v=1626429446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Kitchen Faucet<br>
+        <strong>Price: </strong>
+            83.60 - 123.50
+            <a href="https://millenniumkitchen.myshopify.com/products/smart-touch-kitchen-faucet">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Surface Treatment:</strong> Brushed<br><strong>Material:</strong> Brass<br><strong>Number of Holes for Installation:</strong> Single Hole<br><strong>Cold &amp; Hot Water:</strong> Yes<br><strong>Valve Core Material:</strong> Ceramic<br><strong>Style:</strong> Single Holder Single Hole<br><strong>Number of Handles:</strong> Single Handle<br><strong>Feature:</strong> Sense Faucets<br><strong>Feature:</strong> Cold and Hot<br><strong>Spray Type:</strong> Pull Out<br><strong>Rotatable Or Not:</strong> Yes<br><strong>Type:</strong> Ceramic Plate Spool<br><strong>Surface Finishing:</strong> Stainless Steel<br><strong>Style:</strong> Contemporary<br><strong>Installation Type:</strong> Deck Mounted<br><strong>Faucet Surface Finish:</strong> Black/Brushed Nickel/Brushed Golden<br><strong>Color Option:</strong> Black/Brushed Nickel/Brushed Golden<br><strong>Type:</strong> Sensor Kitchen Faucet<br><strong>Install Style:</strong> Single Hole Deck Mounted Kitchen Faucet<br><strong>Kitchen Faucet Function:</strong> Pull OutSmart Touch Kitchen Mixer Tap<br><strong>Kitchen Faucet Type:</strong> Hot Cold Water Kitchen Mixer Faucet<br><strong>Kitchen Faucet Style:</strong> 360 Degree Rotate Kitchen Faucet Tap<br><strong>Sprayer Shower Head Feature:</strong> Dual-Function Sprayhead with Rocker Switch<br><strong>Decorate Cover Plate Include ?:</strong> Not come with Hole Cover Plate<br><strong>Hot Cold Water Pipe Include ?:</strong> Yes, come with a pair pipe 40cm long<br><strong>Install Hole:</strong> Install Hole Between 3.5-4cm is ok<br><strong>Sprayer Spout Material:</strong> A Grade ABS Plastic Sprayer Head<br><strong>Faucet Body Material:</strong> Stainless steel<br><strong>Warranty:</strong> 2 Years<br><strong>Import tax fees:</strong> Buyer responsible for Import duties, taxes, and charges<br><strong>Commercial Design:</strong> Pull-Down with Flexible Hose<br><strong>Spray Nozzle:</strong> Easy-Clean Spray Nozzle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Faucet</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Brushed no sensor / United States</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>37896363-brushed-no-sensor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Brushed gold sensor / United States</title>
+      <s:price currency="USD">123.50</s:price>
+      <s:sku>37896363-brushed-gold-sensor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Matte Black sensor / United States</title>
+      <s:price currency="USD">123.50</s:price>
+      <s:sku>37896363-matte-black-sensor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Brush gold no sense / United States</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>37896363-brush-gold-no-sense-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Black no sensor / United States</title>
+      <s:price currency="USD">83.60</s:price>
+      <s:sku>37896363-black-no-sensor-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918359875739</id>
+      <title>Brushed nickel sense / United States</title>
+      <s:price currency="USD">123.50</s:price>
+      <s:sku>37896363-brushed-nickel-sense-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+    <published>2021-07-16T03:22:10-04:00</published>
+    <updated>2021-07-16T03:22:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://millenniumkitchen.myshopify.com/products/kitchen-sink-mixer-faucet-sprayer"/>
+    <title>Kitchen Sink Mixer Faucet Sprayer</title>
+    <s:type>Faucet Sprayer</s:type>
+    <s:vendor>MillenniumKitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0420/2112/6299/products/product-image-1664338682.jpg?v=1626429583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillenniumKitchen<br>
+        <strong>Type: </strong>Faucet Sprayer<br>
+        <strong>Price: </strong>
+            74.40 - 88.00
+            <a href="https://millenniumkitchen.myshopify.com/products/kitchen-sink-mixer-faucet-sprayer">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Surface Treatment:</strong> Brushed<br><strong>Material:</strong> Brass<br><strong>Number of Holes for Installation:</strong> Single Hole<br><strong>Cold &amp; Hot Water:</strong> Yes<br><strong>Valve Core Material:</strong> Ceramic<br><strong>Style:</strong> Single Holder Single Hole<br><strong>Number of Handles:</strong> Single Handle<br><strong>Feature:</strong> Cold and Hot<br><strong>Spray Type:</strong> Pull Out<br><strong>Type:</strong> Ceramic Plate Spool<br><strong>Surface Finishing:</strong> Nickle<br><strong>Style:</strong> Classic<br><strong>Installation Type:</strong> Deck Mounted<br><strong>Install Style:</strong> Single Hole Deck Mounted Kitchen Faucet<br><strong>Product Name:</strong> Kitchen Sink Mixer Faucet<br><strong>Kitchen Faucet Function:</strong> Pull Out Brass Kitchen Mixer Tap<br><strong>Kitchen Faucet Type:</strong> Hot Cold Water Kitchen Sink Faucet<br><strong>Kitchen Faucet Style:</strong> 360 Degree Rotate Neck Kitchen Faucet Tap<br><strong>Sprayer Shower Head Feature:</strong> Dual-Function Sprayhead with Rocker Switch<br><strong>Kitchen Faucet Feature:</strong> Pull Out 35cm Spout Faucet<br><strong>Decorate Cover Plate Include ?:</strong> Not come with Hole Cover Plate<br><strong>Hot Cold Water Pipe Include ?:</strong> Yes, come with a pair pipe 40cm long<br><strong>Install Hole:</strong> Install Hole Between 3.5-4cm is ok<br><strong>Sprayer Spout Material:</strong> A Grade ABS Plastic Sprayer Head<br><strong>Faucet Body Material:</strong> Brass Material<br><strong>Package:</strong> Faucet + hot-cold pipes + Accessory<br><strong>Warranty:</strong> 2 Years<br><strong>Import tax fees:</strong> Buyer responsible for Import duties, taxes, and charges<br><strong>Commercial Design:</strong> Pull-Down with Flexible Hose<br><strong>Spray Nozzle:</strong> Easy-Clean Spray Nozzle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Faucet Sprayer</s:tag>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+      <title>Brushed Nickel A / United States</title>
+      <s:price currency="USD">81.60</s:price>
+      <s:sku>26673975-brushed-nickel-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+      <title>Black A / United States</title>
+      <s:price currency="USD">86.00</s:price>
+      <s:sku>26673975-black-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+      <title>Chrome A / United States</title>
+      <s:price currency="USD">74.40</s:price>
+      <s:sku>26673975-chrome-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+      <title>Brurushed Golden A / United States</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>26673975-brurushed-golden-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://millenniumkitchen.myshopify.com/products/6918273237147</id>
+      <title>Brushed Nickel B / United States</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>26673975-brushed-nickel-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
